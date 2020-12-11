@@ -1,0 +1,43 @@
+p{
+	color: green;
+  font-size: large;
+  font-style: italic;
+}
+h1{
+	font-style: italic;
+}
+ul{
+	font-style: italic;
+	font-size: large;
+}
+marquee{
+	font-style: italic;
+	color:  teal;
+}
+h1{ color:orange;
+text-align: center;
+ }
+ h2{
+ 	text-align: center;
+ 	color: brown;
+ 	font-style: italic;
+ }
+ ol{
+ 	font-style: italic;
+ }
+ .test{
+ 	color: brown;
+ }
+ body{
+ 	background-color: pink;
+ }
+h1{
+	background-color: gray;
+}
+
+
+
+
+
+
+
